@@ -18,11 +18,9 @@ Sistema de gestão para bares e restaurantes, em produção com clientes pagante
 💰 Caixa e relatórios: controle de caixa com relatórios diários, semanais e mensais.
 🏢 Multi-restaurante: cada estabelecimento acessa apenas os próprios dados.
 
-🔗 aechefia.com.br
+🔗 www.aechefia.com.br
 
 Stack: React Native (Expo) · Next.js · TypeScript · Prisma · SQL · LLMs
-
-🔒 O código é privado por ser um produto comercial. A maior parte do meu trabalho diário está em repositórios privados no Azure DevOps. Posso apresentar o projeto em detalhes em uma conversa.
 
 📂 Projetos em destaque
 Projeto	Descrição	Stack
